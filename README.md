@@ -7,7 +7,8 @@ Experiments:  Results on DTB70, UAV123 and UAV112 are included in the Results fo
 
 Instructions:
 
-Run the "run_tracker.m" script in MATLAB. or you may need to  download the related datasets 
+Run the "run_tracker.m" script in MATLAB. or you may need to  download the related datasets.
+
 Contact: Zhangjian ji
 
 jizhangjian@sxu.edu.cn
